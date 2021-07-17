@@ -1,0 +1,33 @@
+#Tarea 1
+
+#Ejercicio 1
+a = 45 // 6
+
+#Ejercicio 2
+b = 45 % 6
+
+#Ejercicio 3
+c = 10 + 20//7 - 2
+
+#Ejercicio 4
+d = (9-(25+5-2)/(7*4))/(2**3)
+
+#Ejercicio 5
+e = (2 + 2**3 - 2 * (2 - 2**5) + (2**2) * 2 + 2)/(2 * (2 * 2 - 2**4) + 2**2)
+
+#Ejercicio 6
+f = 6j - (4 + 1j) * 2
+
+#Ejercicio 7
+g = (1 + 1j)/(1 - 1j) + (2/(-1 + 1j))
+
+#Ejercicio 8
+h = (1 + 1j)**2
+
+#Ejercicio 9
+k = abs((9 - 3j)/(-2 - 1j))
+
+#Ejercicio 10
+import cmath
+l = 1j
+m = cmath.phase(l)
